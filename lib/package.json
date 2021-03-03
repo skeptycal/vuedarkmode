@@ -35,7 +35,7 @@
     "autoprefixer": "^9.1.5",
     "bili": "^3.1.2",
     "node-sass": "^4.9.3",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "rollup": "^0.66.6",
     "rollup-plugin-buble": "^0.19.4",
